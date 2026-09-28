@@ -1,0 +1,10 @@
+C:\Users\marco.marques\source\repos\projWin1\projWin1\bin\Debug\projWin1.exe.config
+C:\Users\marco.marques\source\repos\projWin1\projWin1\bin\Debug\projWin1.exe
+C:\Users\marco.marques\source\repos\projWin1\projWin1\bin\Debug\projWin1.pdb
+C:\Users\marco.marques\source\repos\projWin1\projWin1\obj\Debug\projWin1.csproj.AssemblyReference.cache
+C:\Users\marco.marques\source\repos\projWin1\projWin1\obj\Debug\projWin1.Properties.Resources.resources
+C:\Users\marco.marques\source\repos\projWin1\projWin1\obj\Debug\projWin1.csproj.GenerateResource.cache
+C:\Users\marco.marques\source\repos\projWin1\projWin1\obj\Debug\projWin1.csproj.CoreCompileInputs.cache
+C:\Users\marco.marques\source\repos\projWin1\projWin1\obj\Debug\projWin1.exe
+C:\Users\marco.marques\source\repos\projWin1\projWin1\obj\Debug\projWin1.pdb
+C:\Users\marco.marques\source\repos\projWin1\projWin1\obj\Debug\projWin1.Form1.resources
